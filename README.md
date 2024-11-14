@@ -41,7 +41,7 @@
 <h3 align="center">I'm a software engineering student from VietNam</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e471w9k4nibuuvmqm079y7h4anzt5fxu3mubmo6natw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vtm4qejJIl1ERPIrbA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/knife-crab-pikaole-vtm4qejJIl1ERPIrbA">via GIPHY</a></p> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDat2004&label=Profile%20views&color=0e75b6&style=flat" alt="TranHuuDat2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDatLego&label=Profile%20views&color=0e75b6&style=flat" alt="TranHuuDatLego" /> </p>
 
 - 🌱 I’m currently learning **Web Programming**
 
@@ -78,8 +78,8 @@
 </p>
 
 
-<a href="https://github.com/TranHuuDat2004/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TranHuuDat2004&theme=radical" />
+<a href="https://github.com/TranHuuDatLego/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TranHuuDatLego&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=320" />
@@ -92,5 +92,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=convoychat" />
 </a> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDat2004&theme=radical&langs_count=8&card_width=805)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDatLego&theme=radical&langs_count=8&card_width=805)](https://git.io/streak-stats)
 
