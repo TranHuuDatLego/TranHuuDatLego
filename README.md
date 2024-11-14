@@ -47,11 +47,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=convoychat" />
-</a> -->
+</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDatLego&theme=radical&langs_count=8&card_width=805)](https://git.io/streak-stats)
