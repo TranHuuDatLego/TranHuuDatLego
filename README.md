@@ -54,4 +54,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=radical&repo=convoychat" />
 </a> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDatLego1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDatLego&theme=dark)](https://git.io/streak-stats)
