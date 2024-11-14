@@ -40,12 +40,4 @@
 </p>
 
 
-<a href="https://github.com/TranHuuDat2004/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TranHuuDat2004&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDatLego&theme=radical&langs_count=8&card_width=805)](https://git.io/streak-stats)
