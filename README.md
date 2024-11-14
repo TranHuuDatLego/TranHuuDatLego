@@ -48,4 +48,4 @@
 </a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDatLego&theme=radical&langs_count=8&card_width=805)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDat123&theme=radical&langs_count=8&card_width=805)](https://git.io/streak-stats)
